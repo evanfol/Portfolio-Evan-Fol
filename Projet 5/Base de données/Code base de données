@@ -1,0 +1,51 @@
+PRAGMA foreign_keys = ON;
+
+CREATE TABLE Region (
+  Reg_code TEXT NOT NULL PRIMARY KEY,
+  Regp_region TEXT NOT NULL,
+  Reg_nom TEXT NOT NULL
+);
+
+CREATE TABLE Departement (
+  Dep_code TEXT NOT NULL PRIMARY KEY,
+  Reg_code TEXT NOT NULL,
+  Dep_nom TEXT NOT NULL,
+  FOREIGN KEY (Reg_code) REFERENCES Region(Reg_code) ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+
+CREATE TABLE Commune (
+  Insee_commune TEXT NOT NULL PRIMARY KEY,
+  Dep_code TEXT NOT NULL,
+  Nom_commune TEXT NOT NULL,
+  Population_num INTEGER NOT NULL,
+  Pop_CAP INTEGER,
+  FOREIGN KEY (Dep_code) REFERENCES Departement(Dep_code) ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+
+CREATE TABLE Bien (
+  Id_bien INTEGER PRIMARY KEY AUTOINCREMENT,
+  Insee_commune TEXT NOT NULL,
+  No_voie INTEGER,
+  BTQ TEXT,
+  Type_voie TEXT,
+  Voie TEXT,
+  Total_piece INTEGER,
+  Surface_carrez REAL,
+  Surface_local INTEGER,
+  Type_local TEXT,
+  FOREIGN KEY (Insee_commune) REFERENCES commune(Insee_commune) ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+
+CREATE TABLE Vente (
+  Id_vente INTEGER PRIMARY KEY AUTOINCREMENT,
+  Id_bien INTEGER NOT NULL,
+  Date TEXT NOT NULL, 
+  Valeur REAL,
+  FOREIGN KEY (Id_bien) REFERENCES Bien(Id_bien) ON DELETE NO ACTION ON UPDATE NO ACTION
+);
+
+UPDATE Vente
+SET Valeur = CAST(REPLACE(Valeur, ',', '.') AS REAL);
+
+UPDATE Bien
+SET Surface_carrez = CAST(REPLACE(Surface_carrez, ',', '.') AS REAL);
