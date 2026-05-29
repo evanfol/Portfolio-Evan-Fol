@@ -1,0 +1,30 @@
+CREATE TABLE Region (
+  Code_dep_code_commune TEXT PRIMARY KEY,
+  reg_code INTEGER NOT NULL,
+  reg_nom TEXT NOT NULL,
+  aca_nom TEXT NOT NULL,
+  dep_nom TEXT NOT NULL,
+  com_nom_maj_court TEXT NOT NULL,
+  dep_code TEXT NOT NULL CHECK (length(dep_code) <= 3),
+  dep_nom_num TEXT NOT NULL
+);
+
+CREATE TABLE Contrat (
+  Contrat_ID INTEGER PRIMARY KEY,
+  No_voie INTEGER NOT NULL,
+  B_T_Q TEXT NOT NULL CHECK (length(B_T_Q)<=1),
+  Type_de_voie TEXT NOT NULL,
+  Voie TEXT NOT NULL,
+  Code_dep_code_commune TEXT NOT NULL,
+  Code_postal TEXT NOT NULL CHECK (length(Code_postal)<=5),
+  Surface INTEGER NOT NULL,
+  Type_local TEXT NOT NULL,
+  Occupation TEXT NOT NULL,
+  Type_contrat TEXT NOT NULL,
+  Formule TEXT NOT NULL,
+  Valeur_declaree_biens TEXT NOT NULL,
+  Prix_cotisation_mensuel INTEGER NOT NULL,
+  FOREIGN KEY (Code_dep_code_commune)
+    REFERENCES Region (Code_dep_code_commune)
+    ON DELETE NO ACTION ON UPDATE NO ACTION
+);
