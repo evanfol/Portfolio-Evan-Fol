@@ -81,6 +81,8 @@ Projet 12 – Détection de faux billets
 Construction de modèles de machine learning pour détecter automatiquement les faux billets à partir de leurs caractéristiques.
 
 
+
+
 🛠️ Technologies utilisées
 
 Domaine	Outils
@@ -96,6 +98,8 @@ Statistiques	Scipy, Tests statistiques
 Machine Learning	Scikit-Learn
 
 Reporting	Power BI, DAX
+
+
 
 
 🎥 Présentation Power BI
