@@ -30,54 +30,74 @@ Projet 2 – Analyse des ventes e-commerce
 
 Analyse des performances commerciales et création de visualisations sous Excel pour identifier les tendances de vente.
 
+
 Projet 3 – Analyse du marché de l'assurance
 
 Création et interrogation d'une base de données SQL afin d'extraire des informations utiles à la prise de décision.
+
 
 Projet 4 – Étude de santé publique mondiale
 
 Analyse des données de la FAO sur la faim dans le monde à l'aide de Python pour identifier les principaux enjeux alimentaires.
 
+
 Projet 5 – Base de données immobilière
 
 Conception d'une base de données relationnelle et réalisation de requêtes SQL répondant à des besoins métiers.
+
 
 Projet 6 – Optimisation des données d'une boutique
 
 Nettoyage, préparation et analyse de données afin d'améliorer leur qualité et leur exploitation.
 
+
 Projet 7 – Dashboard Power BI de gestion de projet
 
 Création d'un tableau de bord interactif permettant de suivre l'avancement des projets et d'identifier les retards.
+
 
 Projet 8 – Égalité femmes-hommes
 
 Collecte, nettoyage et analyse de données RH afin de produire des indicateurs d'égalité professionnelle conformes au RGPD.
 
+
 Projet 9 – Analyse des ventes d'une librairie
 
 Analyse statistique des ventes et étude des comportements d'achat pour formuler des recommandations stratégiques.
+
 
 Projet 10 – Accès à l'eau potable dans le monde
 
 Conception de tableaux de bord Power BI pour visualiser les enjeux liés à l'accès à l'eau potable à l'échelle mondiale.
 
+
 Projet 11 – Étude de marché internationale
+
 Utilisation de l'ACP et du clustering pour identifier les marchés les plus pertinents et formuler des recommandations de développement.
 
 
 Projet 12 – Détection de faux billets
+
 Construction de modèles de machine learning pour détecter automatiquement les faux billets à partir de leurs caractéristiques.
 
 
 🛠️ Technologies utilisées
+
 Domaine	Outils
+
 Data Visualisation	Power BI, Excel
+
 Analyse de données	Python, Pandas, NumPy
+
 Bases de données	SQL, MySQL
+
 Statistiques	Scipy, Tests statistiques
+
 Machine Learning	Scikit-Learn
+
 Reporting	Power BI, DAX
+
+
 🎥 Présentation Power BI
 
 Vidéo de présentation :
