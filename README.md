@@ -23,7 +23,9 @@ Analyse statistique
 ACP (Analyse en Composantes Principales)
 Clustering (K-Means, CAH)
 Modélisation de données
+
 🚀 Projets
+
 Projet 2 – Analyse des ventes e-commerce
 
 Analyse des performances commerciales et création de visualisations sous Excel pour identifier les tendances de vente.
@@ -61,12 +63,12 @@ Projet 10 – Accès à l'eau potable dans le monde
 Conception de tableaux de bord Power BI pour visualiser les enjeux liés à l'accès à l'eau potable à l'échelle mondiale.
 
 Projet 11 – Étude de marché internationale
-
 Utilisation de l'ACP et du clustering pour identifier les marchés les plus pertinents et formuler des recommandations de développement.
 
-Projet 12 – Détection de faux billets
 
+Projet 12 – Détection de faux billets
 Construction de modèles de machine learning pour détecter automatiquement les faux billets à partir de leurs caractéristiques.
+
 
 🛠️ Technologies utilisées
 Domaine	Outils
