@@ -1,0 +1,97 @@
+2026-06-30 11:06:34,501 - INFO - CrÃ©ation de la table weather.
+2026-06-30 11:06:34,502 - INFO - ===== DÃ©but du pipeline =====
+2026-06-30 11:06:34,998 - INFO - Paris rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 11:06:35,506 - INFO - Lyon rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 11:06:36,000 - INFO - Marseille rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 11:06:36,485 - INFO - Lille rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 11:06:36,970 - INFO - Bordeaux rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 11:06:37,019 - INFO - Table weather crÃ©Ã©e ou dÃ©jÃ  existante.
+2026-06-30 11:06:37,072 - INFO - Table weather crÃ©Ã©e ou dÃ©jÃ  existante.
+2026-06-30 11:06:37,072 - INFO - ===== Fin du pipeline =====
+2026-06-30 13:10:00+02:00 - INFO - CrÃ©ation de la table weather.
+2026-06-30 13:10:00+02:00 - INFO - ===== DÃ©but du pipeline =====
+2026-06-30 13:10:02+02:00 - INFO - Paris rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:10:03+02:00 - INFO - Lyon rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:10:05+02:00 - INFO - Marseille rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:10:05+02:00 - INFO - Lille rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:10:06+02:00 - INFO - Bordeaux rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:10:06+02:00 - INFO - Table weather crÃ©Ã©e ou dÃ©jÃ  existante.
+2026-06-30 13:10:06+02:00 - INFO - Table weather crÃ©Ã©e ou dÃ©jÃ  existante.
+2026-06-30 13:10:06+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 13:13:29+02:00 - INFO - CrÃ©ation de la table weather.
+2026-06-30 13:13:29+02:00 - INFO - ===== DÃ©but du pipeline =====
+2026-06-30 13:13:30+02:00 - INFO - Paris rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:13:30+02:00 - INFO - Lyon rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:13:31+02:00 - INFO - Marseille rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:13:31+02:00 - INFO - Lille rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:13:32+02:00 - INFO - Bordeaux rÃ©cupÃ©rÃ©e avec succÃ¨s.
+2026-06-30 13:13:32+02:00 - INFO - Table weather crÃ©Ã©e ou dÃ©jÃ  existante.
+2026-06-30 13:13:32+02:00 - INFO - Table weather crÃ©Ã©e ou dÃ©jÃ  existante.
+2026-06-30 13:13:32+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 13:59:20+02:00 - INFO - Création de la table weather.
+2026-06-30 13:59:20+02:00 - INFO - ===== Début du pipeline =====
+2026-06-30 13:59:21+02:00 - INFO - Paris récupérée avec succès.
+2026-06-30 13:59:21+02:00 - INFO - Lyon récupérée avec succès.
+2026-06-30 13:59:21+02:00 - INFO - Marseille récupérée avec succès.
+2026-06-30 13:59:21+02:00 - INFO - Lille récupérée avec succès.
+2026-06-30 13:59:21+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-06-30 13:59:21+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 13:59:21+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 13:59:21+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 14:15:37+02:00 - INFO - ===== Début du pipeline =====
+2026-06-30 14:15:37+02:00 - INFO - Paris récupérée avec succès.
+2026-06-30 14:15:38+02:00 - INFO - Lyon récupérée avec succès.
+2026-06-30 14:15:38+02:00 - INFO - Marseille récupérée avec succès.
+2026-06-30 14:15:38+02:00 - INFO - Lille récupérée avec succès.
+2026-06-30 14:15:38+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-06-30 14:15:38+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 14:15:38+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 14:15:38+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 14:16:07+02:00 - INFO - ===== Début du pipeline =====
+2026-06-30 14:16:07+02:00 - INFO - Paris récupérée avec succès.
+2026-06-30 14:16:08+02:00 - INFO - Lyon récupérée avec succès.
+2026-06-30 14:16:08+02:00 - INFO - Marseille récupérée avec succès.
+2026-06-30 14:16:08+02:00 - INFO - Lille récupérée avec succès.
+2026-06-30 14:16:08+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-06-30 14:16:08+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 14:16:08+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 14:16:08+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 15:14:27+02:00 - INFO - ===== Début du pipeline =====
+2026-06-30 15:14:27+02:00 - INFO - Paris récupérée avec succès.
+2026-06-30 15:14:27+02:00 - INFO - Lyon récupérée avec succès.
+2026-06-30 15:14:27+02:00 - INFO - Marseille récupérée avec succès.
+2026-06-30 15:14:27+02:00 - INFO - Lille récupérée avec succès.
+2026-06-30 15:14:27+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-06-30 15:14:28+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 15:14:28+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 15:14:28+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 15:18:34+02:00 - INFO - Création de la table weather.
+2026-06-30 15:18:34+02:00 - INFO - ===== Début du pipeline =====
+2026-06-30 15:18:34+02:00 - INFO - Paris récupérée avec succès.
+2026-06-30 15:18:34+02:00 - INFO - Lyon récupérée avec succès.
+2026-06-30 15:18:34+02:00 - INFO - Marseille récupérée avec succès.
+2026-06-30 15:18:35+02:00 - INFO - Lille récupérée avec succès.
+2026-06-30 15:18:35+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-06-30 15:18:35+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 15:18:35+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 15:18:35+02:00 - INFO - ===== Fin du pipeline =====
+2026-06-30 15:23:59+02:00 - INFO - Création de la table weather.
+2026-06-30 15:23:59+02:00 - INFO - ===== Début du pipeline =====
+2026-06-30 15:23:59+02:00 - INFO - Paris récupérée avec succès.
+2026-06-30 15:23:59+02:00 - INFO - Lyon récupérée avec succès.
+2026-06-30 15:23:59+02:00 - INFO - Marseille récupérée avec succès.
+2026-06-30 15:24:00+02:00 - INFO - Lille récupérée avec succès.
+2026-06-30 15:24:00+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-06-30 15:24:00+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 15:24:00+02:00 - INFO - Table weather créée ou déjà existante.
+2026-06-30 15:24:00+02:00 - INFO - ===== Fin du pipeline =====
+2026-07-01 16:21:45+02:00 - INFO - Création de la table weather.
+2026-07-01 16:21:45+02:00 - INFO - ===== Début du pipeline =====
+2026-07-01 16:21:45+02:00 - INFO - Paris récupérée avec succès.
+2026-07-01 16:21:45+02:00 - INFO - Lyon récupérée avec succès.
+2026-07-01 16:21:45+02:00 - INFO - Marseille récupérée avec succès.
+2026-07-01 16:21:45+02:00 - INFO - Lille récupérée avec succès.
+2026-07-01 16:21:45+02:00 - INFO - Bordeaux récupérée avec succès.
+2026-07-01 16:21:45+02:00 - INFO - Table weather créée ou déjà existante.
+2026-07-01 16:21:45+02:00 - INFO - Table weather créée ou déjà existante.
+2026-07-01 16:21:45+02:00 - INFO - ===== Fin du pipeline =====
