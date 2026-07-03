@@ -114,7 +114,7 @@ https://mm.tt/map/4013237931?t=pWS76JMbt5
 
 📫 Contact
 
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/in/evan-fol/
 
 GitHub : https://github.com/evanfol
 
