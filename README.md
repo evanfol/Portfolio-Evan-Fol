@@ -82,8 +82,8 @@ Construction de modèles de machine learning pour détecter automatiquement les 
 
 Projet 13 – Création d'un portfolio professionnel de la data
 
-Projets Perso
-Création d'un dashboard powerBI a partir de Données importées via un API de ressouces météo grâce à python
+Projets Perso - Dashboard météo
+Création d'un tableau de bord Power BI à partir de données météorologiques importées via une API et traitées avec Python.
 
 Projets BGE – Projets réalisés pour la Bibliothèque de Genève
 
