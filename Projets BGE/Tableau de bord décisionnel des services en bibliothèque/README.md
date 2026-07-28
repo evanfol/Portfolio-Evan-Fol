@@ -127,37 +127,6 @@ Ces informations permettent d'optimiser l'organisation des équipes, d'améliore
 
 ---
 
-## 📁 Structure du projet
-
-```
-📦 Projet
-│
-├── Données/
-│   ├── Données brutes
-│   └── Données transformées
-│
-├── Power Query/
-│   └── Requêtes de préparation
-│
-├── Dashboard/
-│   ├── KPI
-│   ├── Graphiques
-│   └── Segments
-│
-└── README.md
-```
-
----
-
-## 💡 Axes d'amélioration
-
-- Intégration automatique de nouvelles sources de données.
-- Développement d'indicateurs prédictifs de fréquentation.
-- Migration vers Power BI pour un partage en ligne.
-- Mise en place d'alertes automatiques sur les indicateurs clés.
-
----
-
 ## 👤 Auteur
 
 **Evan Fol**
