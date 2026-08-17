@@ -1,0 +1,11 @@
+"Genf",
+"Genève",
+"Geneve",
+"Geneva",
+"Ginevra",
+"Carouge",
+"Cologny",
+"Lancy",
+"Meyrin",
+"Vernier",
+"Veyrier"
